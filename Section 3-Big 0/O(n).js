@@ -12,3 +12,22 @@ function findNemo(array) {
     }
 }
 findNemo(large); // O(n) -> Linear (for loops, while loops through n items)
+
+const findNemo2 = array =>{
+    array.forEach(fish=> {
+        if(fish==='nemo') {
+            console.log('Found NEMO!');
+        }
+    })
+}
+
+const findNemo3 = array => {
+    for (let fish of array) {
+        if(fish==='nemo') {
+            console.log('Found NEMO!');
+        }
+    }
+}
+
+findNemo2(everyone);
+findNemo3(everyone);
