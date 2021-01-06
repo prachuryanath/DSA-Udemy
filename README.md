@@ -38,4 +38,4 @@ Non Technical:
 - How to negotiate your salary
 - How to get a raise
 
-![BigO](Data Structure.JPG)
+![BigO](https://github.com/prachuryanath/DSA-Udemy/blob/master/Data%20Structure.JPG)
