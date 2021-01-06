@@ -38,4 +38,4 @@ Non Technical:
 - How to negotiate your salary
 - How to get a raise
 
-![Data Structure](Data Structure.JPG)
+![BigO](Data Structure.JPG)
